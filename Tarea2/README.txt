@@ -1,3 +1,4 @@
 Authors: ALVAREZ ANGELICA ; SAADA PAUL
 
-Los algoritmos aquí permiten de comparar los metodos de Newton-Raphson a la mano con los que usa la libreria de PandaPower.
+Los algoritmos aquí permiten de comparar un metodo de Newton-Raphson hecho directamente con matrices, 
+con lo que usa la libreria de PandaPower.
